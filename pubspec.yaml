@@ -27,6 +27,8 @@ dependencies:
   # Flutter plugin for Firebase Cloud Messaging.
   firebase_messaging: ^6.0.9
 
+  # Contains code to deal with internalionalized/localized messages, date and number formatting
+  # and parsing, bi-directional text, and other internalionalization issues.
   intl: ^0.16.1
 
 dev_dependencies:
